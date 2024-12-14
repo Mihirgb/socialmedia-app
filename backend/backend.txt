@@ -1,0 +1,10 @@
+Step 1: 
+We create login signup logout endpoints.
+We add the routes in routes.js
+We add the controller functions that are executed when a request is made in controller.js
+
+Step 2: 
+Connect to the database
+Create the user model
+Start the user authentication part:
+    Create the signup/register function
